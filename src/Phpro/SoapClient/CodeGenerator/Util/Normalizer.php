@@ -17,6 +17,7 @@ class Normalizer
         'any' => 'string',
         'anytype' => 'mixed',
         'anyxml' => 'string',
+        'anyuri' => 'string',
         'anysimpletype' => 'mixed',
         'long' => 'int',
         'short' => 'int',
